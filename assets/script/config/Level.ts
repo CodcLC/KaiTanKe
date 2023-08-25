@@ -1,0 +1,1 @@
+﻿yyp.config.Level = {"0":{"LevelId":0,"EnemyCount":5,"CoinCount":100,"Max":5}};

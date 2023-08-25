@@ -1,0 +1,26 @@
+{
+	"game": {
+		"name": "未知游戏",
+		"appid": "UNKNOW"
+	},
+	"configs": [
+		{
+			"appid": "679312466",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false,
+					"params": {
+						"appid": "679312466",
+						"storeid": "wechat",
+						"plugin_version": "1.2.9_2.2.0"
+					}
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		}
+	],
+	"needExecNative": true
+}

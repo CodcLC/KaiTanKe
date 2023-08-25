@@ -1,0 +1,104 @@
+
+sp_sk_hit_ice_explosion2.png
+size: 177,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 67, 140
+  size: 75, 37
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 170, 64
+  size: 7, 52
+  orig: 7, 53
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 47, 18
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 144, 118
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 0, 114
+  size: 65, 63
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 102, 43
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 144, 145
+  size: 32, 32
+  orig: 50, 46
+  offset: 11, 5
+  index: -1
+b2
+  rotate: false
+  xy: 0, 68
+  size: 50, 44
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 67, 92
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 52, 45
+  size: 48, 45
+  orig: 50, 46
+  offset: 0, 1
+  index: -1
+b5
+  rotate: false
+  xy: 119, 70
+  size: 49, 46
+  orig: 50, 46
+  offset: 1, 0
+  index: -1
+b6
+  rotate: false
+  xy: 0, 21
+  size: 45, 45
+  orig: 50, 46
+  offset: 3, 1
+  index: -1
+w
+  rotate: false
+  xy: 73, 19
+  size: 24, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+x
+  rotate: true
+  xy: 119, 118
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
